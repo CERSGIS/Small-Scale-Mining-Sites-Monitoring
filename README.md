@@ -1,0 +1,1 @@
+# Small-Scale-Mining-Site-Detection
