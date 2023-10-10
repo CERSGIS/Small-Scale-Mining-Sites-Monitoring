@@ -1,4 +1,4 @@
-# MONITORING OF SMALL-SCALE MINING SITES IN GHANA
+<span style="color:dodgerblue;">MONITORING OF SMALL-SCALE MINING SITES IN GHANA</span>
 Small-scale mining is an important source of livelihood for areas associated with alluvial gold deposits. However, it is also a major driver of freshwater pollution, forest and land degradation, and deforestation, not to mention poor worker safety and child labor. Despite attempts by regulatory authorities to control galamsey activities, it has expanded rapidly with dire consequences including contaminated soils and water bodies.
 
 With the advent of freely available earth observation data and cloud computing resources, CERSGIS under the NASA/SERVIR West Africa program since 2018 has explored and developed methodologies based on satellite imageries (Sentinel 1, Sentinel 2, Planet NICFI Monthly Mosaics) to identify and quantify the extent of galamsey activities in the high forest zone of Ghana, where these activities are widespread.
