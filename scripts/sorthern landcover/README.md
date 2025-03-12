@@ -14,4 +14,4 @@ Shrub 			10
 Rubber 			11
 Palm 			12
 
- <div> <img style="width: 100%;" src="C:\Users\danie\OneDrive\Desktop\Galamsey\Small-Scale-Mining-Sites-Monitoring\img\classified map\classified_map.png"/> </div>
+ <div> <img style="width: 100%;" src="https://github.com/CERSGIS/Small-Scale-Mining-Sites-Monitoring/blob/Galamsey/img/classified%20map/classified_map.png?raw=true"/> </div>
